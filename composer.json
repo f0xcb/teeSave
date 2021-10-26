@@ -1,0 +1,13 @@
+{
+  "name": "f0xcb/tee-save",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "ext-mbstring": "*",
+    "guzzlehttp/guzzle": "^7.4"
+  }
+}
